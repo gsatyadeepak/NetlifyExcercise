@@ -4,6 +4,3 @@ export default async (request, context) => {
   });
 };
  
-export const config = {
-  path: "/simple", // Routes this function to /hello
-};
