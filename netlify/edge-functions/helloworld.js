@@ -5,5 +5,5 @@ export default async (request, context) => {
 };
  
 export const config = {
-  path: "/HelloWorld", // Routes this function to /hello
+  path: "/simple", // Routes this function to /hello
 };
